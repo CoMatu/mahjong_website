@@ -139,7 +139,7 @@ class AppStrings {
     FaqItem(
       question: 'Приложение зависло — что делать?',
       answer:
-          'Закройте игру и запустите ее снова. Если проблема повторяется, проверьте обновление в RuStore и напишите в поддержку с описанием устройства и момента зависания.',
+          'Закройте игру и запустите ее снова. Если проблема повторяется, проверьте обновление и напишите в поддержку с описанием устройства и момента зависания.',
     ),
     FaqItem(
       question: 'Пропал прогресс — можно ли восстановить?',
@@ -171,7 +171,7 @@ class AppStrings {
     FaqItem(
       question: 'App freezes — what should I do?',
       answer:
-          'Close the game and launch it again. If the issue repeats, check for an update in RuStore and contact support with your device model and what happened before the freeze.',
+          'Close the game and launch it again. If the issue repeats, check for an update and contact support with your device model and what happened before the freeze.',
     ),
     FaqItem(
       question: 'I lost my progress. Can it be restored?',
